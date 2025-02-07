@@ -48,8 +48,9 @@
 <<<<<<< HEAD
     "sanity": "^3.72.1",
 =======
-    "sanity": "^3.70.0",
-    "shipengine": "^1.0.7",
+"sanity": "^3.72.1",
+"shipengine": "^1.0.7",
+
 >>>>>>> 50676e3e6f63e1e0cde78ffdac058b9aa211a831
     "styled-components": "^6.1.14",
     "swiper": "^11.1.15",
