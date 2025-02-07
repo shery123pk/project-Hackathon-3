@@ -1,9 +1,9 @@
 # Shop.co Online Shopping Platform
 
 ## Author Information
-**Author:** Muzaffar Ali  
-**Slot:** Friday Morning 
-**Role Number:** 00481161  
+**Author:** sharmeen Asif 
+**Slot:** saturday evening 
+**Role Number:** 00200801 
 
 ---
 
