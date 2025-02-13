@@ -1,8 +1,8 @@
 "use client"
 import { Button } from "@/components/ui/button";
-import { Minus, Plus } from "lucide-react";
+
 import React from "react";
-import { MdDelete } from "react-icons/md";
+
 import Cartpage from "./cartpage";
 import { useSelector } from "react-redux";
 import { BreadcrumbCollapsed } from "@/components/Breadcrupm";

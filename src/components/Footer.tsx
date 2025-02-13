@@ -72,7 +72,7 @@ export default function Footer(){
              </div>
         </div>
         <div className=" w-full flex flex-col md:flex-row items-center mt-5 md:mt-7 justify-between">
-            <p className="text-xs md:text-sm">Shop.co© Made by Shery_Asif,  All Rights Reserved</p>
+            <p className="text-xs md:text-sm">Shop.co © Made by Shery_Asif,  All Rights Reserved</p>
             <div className="flex mt-4 md:mt-0">
                 <Image src={"/images/Visa.png"}     
                 className="w-[40px]" width={100} height={100} alt="visa"></Image>

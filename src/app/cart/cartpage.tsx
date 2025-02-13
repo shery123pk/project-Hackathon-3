@@ -1,6 +1,6 @@
 "use client"
 import { Button } from "@/components/ui/button";
-import { urlFor } from "@/sanity/lib/image";
+
 import { Divide, Minus, Plus } from "lucide-react";
 import Image from "next/image";
 import React from "react";
